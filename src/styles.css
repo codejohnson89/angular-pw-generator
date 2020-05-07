@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+.container {
+    max-width: 680px;
+    margin: 3em auto;
+    border: 1px solid #7a7a7a;
+    box-shadow: 1px 1px 7px #333;
+}
+
+.custom-button {
+    margin: 1em auto;
+}
+
+.passwordGen {
+    overflow-wrap: break-word;
+    max-width: 65%;
+    border: 1px solid #333;
+    margin: 0 auto 1em;
+}
